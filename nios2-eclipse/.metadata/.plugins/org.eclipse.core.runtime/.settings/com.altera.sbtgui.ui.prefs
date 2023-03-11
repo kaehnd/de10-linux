@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+newApplicationWizardPage.defaultLocation=C\:\\dev\\DE10-Linux\\quartus-computer-system\\software\\memtest
+newSoftwareExampleWizardPage.defaultLocation=C\:\\dev\\DE10-Linux\\quartus-computer-system\\software\\mmutest
+newSoftwareExampleWizardPage.sopcinfoFile=C\:\\dev\\DE10-Linux\\quartus-computer-system\\DE10_Linux.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=C\:\\dev\\DE10-Linux\\quartus-computer-system\\software\\mmutest_bsp
